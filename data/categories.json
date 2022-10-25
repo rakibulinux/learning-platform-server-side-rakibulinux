@@ -1,26 +1,26 @@
 [
   {
-    "id": "01",
+    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "name": "HTML & CSS"
   },
   {
-    "id": "02",
+    "id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "name": "JavaScript"
   },
   {
-    "id": "03",
+    "id": "0282e0e58a5c404fbd15261f11c2ab6c",
     "name": "React"
   },
   {
-    "id": "04",
+    "id": "0282e0e58a5c404fbd15261f11c2ab6d",
     "name": "MongoDB"
   },
   {
-    "id": "05",
+    "id": "0282e0e58a5c404fbd15261f11c2ab6e",
     "name": "Express"
   },
   {
-    "id": "06",
+    "id": "0282e0e58a5c404fbd15261f11c2ab6f",
     "name": "NextJS"
   }
 ]
